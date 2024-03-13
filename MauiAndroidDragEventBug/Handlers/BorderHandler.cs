@@ -1,6 +1,6 @@
 namespace MauiAndroidDragEventBug.Handlers;
 
-public class BorderHandler
+public partial class BorderHandler
 {
     
 }
